@@ -9,11 +9,11 @@ crear_subgrafo_inducido(grafo, lonMuestra)
 \arguments{
 \item{grafo}{grafo que se quiere muestrear .}
 
-\item{lonMuestra}{tamaÃ±o del conjunto inicial de vÃ©rtices muestreados.}
+\item{lonMuestra}{tamaño del conjunto inicial de vértices muestreados.}
 }
 \value{
 subgrafo muestreado.
 }
 \description{
-FunciÃ³n que crea una muestra de un grafo con la tÃ©cnica de muestreo inducido.
+Función que crea una muestra de un grafo con la técnica de muestreo inducido.
 }
