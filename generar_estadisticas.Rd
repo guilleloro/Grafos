@@ -2,17 +2,17 @@
 % Please edit documentation in R/Seguridad.R
 \name{generar_estadisticas}
 \alias{generar_estadisticas}
-\title{Generar EstadÃ­sticas}
+\title{Generar Estadísticas}
 \usage{
 generar_estadisticas(grafo, salida_pdf, salida_txt)
 }
 \arguments{
-\item{grafo}{objeto tipo grafo de igraph del que queremos extraer sus caracterÃ­sticas.}
+\item{grafo}{objeto tipo grafo de igraph del que queremos extraer sus características.}
 
-\item{salida_pdf}{ruta al archivo .pdf donde se dibujarÃ¡n los grafos.}
+\item{salida_pdf}{ruta al archivo .pdf donde se dibujarán los grafos.}
 
-\item{salida_txt}{ruta al archivo .txt donde se escribirÃ¡ el resto de informaciÃ³n}
+\item{salida_txt}{ruta al archivo .txt donde se escribirá el resto de información}
 }
 \description{
-Función que genera las principales caracterÃ­sticas y propiedades de un grafo
+Función que genera las principales características y propiedades de un grafo
 }
