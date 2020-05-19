@@ -14,5 +14,5 @@ generar_estadisticas(grafo, salida_pdf, salida_txt)
 \item{salida_txt}{ruta al archivo .txt donde se escribirá el resto de información}
 }
 \description{
-Funci�n que genera las principales características y propiedades de un grafo
+Función que genera las principales características y propiedades de un grafo.
 }
